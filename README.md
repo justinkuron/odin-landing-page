@@ -1,2 +1,2 @@
 # odin-landing-page
-#This is the landing page project for The Odin Project, utilizing HTML & CSS. 
+This is the landing page project for The Odin Project, utilizing HTML & CSS. 
